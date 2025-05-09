@@ -1,3 +1,7 @@
+-- Sample Data for YMCA-Inspired Database Project
+-- This data is entirely fictional and used solely for academic demonstration purposes.
+-- It is not associated with any real individuals or organizations.
+
 INSERT INTO person
 (personId, cellNumber, primaryNumber, city, state, zip, dob, gender, fName, lName) VALUES
 (1,'2125550001','6465550001','New York','NY','10001','1980-03-15','Male','John','Doe'),
